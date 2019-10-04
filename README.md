@@ -6,7 +6,9 @@ Run Android:
 
 1- npm install
 
-2- expo start --android
+2- npm install -g expo-cli
+
+3- expo start --android
 
 ====================
 
