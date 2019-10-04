@@ -1,4 +1,4 @@
-# market-app 
+# market-app with React Native and Redux
 
 ==================== 
 
