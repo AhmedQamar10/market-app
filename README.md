@@ -10,7 +10,9 @@ Run Android:
 
 ====================
 
-Apk file: 
+Apk file: https://expo.io/builds/6c5461d2-3563-4382-a071-a015d9375278
+
+OR
 
 1- npm install -g expo-cli
 
