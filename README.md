@@ -1,13 +1,17 @@
 # market-app 
 ==================== 
 
-Run Android: 
+Run Android:
+
 1- npm install
+
 2- expo start --android
 
 ====================
 Apk file: 
+
 1- npm install -g expo-cli
+
 2- expo build:android
 
 ====================
