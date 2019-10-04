@@ -1,4 +1,5 @@
 # market-app 
+
 ==================== 
 
 Run Android:
@@ -8,6 +9,7 @@ Run Android:
 2- expo start --android
 
 ====================
+
 Apk file: 
 
 1- npm install -g expo-cli
@@ -15,6 +17,7 @@ Apk file:
 2- expo build:android
 
 ====================
+
 4 Screenshots
 
 # Home Page
