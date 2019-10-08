@@ -27,25 +27,25 @@ OR
 5 Screenshots
 
 # 1- Splash Page 
-![Screenshot_٢٠١٩-١٠-٠٤-٢١-١٤-٤٦](https://user-images.githubusercontent.com/43926424/66233796-715b7400-e6ec-11e9-8a4e-ac734aa55e7b.png)
+![1](https://user-images.githubusercontent.com/43926424/66364499-3aa28980-e98a-11e9-9bd9-d8247520ee75.PNG)
 
 ====================
 
 # 2- Home Page
-![Screenshot_٢٠١٩-١٠-٠٤-٢٠-٣٥-٢٧](https://user-images.githubusercontent.com/43926424/66232282-cb5a3a80-e6e8-11e9-81b9-b2eb927f8e03.png)
+![2](https://user-images.githubusercontent.com/43926424/66364470-1e065180-e98a-11e9-8a1f-23061514df2f.PNG)
 
 ====================
 
 # 3- List of categories
-![Screenshot_٢٠١٩-١٠-٠٤-٢٠-٣٥-٣٧](https://user-images.githubusercontent.com/43926424/66232354-f04ead80-e6e8-11e9-9cd3-d00ac985d4be.png)
+![3](https://user-images.githubusercontent.com/43926424/66364512-48f0a580-e98a-11e9-9f43-2f999df433a2.PNG)
 
 ====================
 
 # 4- List Frists
-![Screenshot_٢٠١٩-١٠-٠٤-٢٠-٣٥-٤٨](https://user-images.githubusercontent.com/43926424/66232362-f5136180-e6e8-11e9-81cc-da19fe157a85.png)
+![4](https://user-images.githubusercontent.com/43926424/66364544-5c9c0c00-e98a-11e9-98df-6ada2f50d0c2.PNG)
 
 ====================
 
 # 5- Product name detail
-![Screenshot_٢٠١٩-١٠-٠٤-٢٠-٣٦-١٢](https://user-images.githubusercontent.com/43926424/66232385-fa70ac00-e6e8-11e9-9195-bb83b236039b.png)
+![5](https://user-images.githubusercontent.com/43926424/66364603-979e3f80-e98a-11e9-9aef-78d62b82d7e3.PNG)
 
