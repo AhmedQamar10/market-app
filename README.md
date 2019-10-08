@@ -12,7 +12,7 @@ Run Android:
 
 ====================
 
-Apk file: https://expo.io/builds/6c5461d2-3563-4382-a071-a015d9375278
+Apk file: https://expo.io/artifacts/ca992bcb-536d-4c46-99c4-620901e78163
 
 OR
 
